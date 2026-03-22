@@ -1,0 +1,82 @@
+# 🛒 Customer Segmentation Project
+
+## 📌 Objective
+The objective of this project is to analyze customer behavior and segment customers based on their income and spending patterns using data analysis and machine learning techniques.
+
+---
+
+## 📂 Dataset
+- Dataset used: Mall Customers Dataset
+- Contains customer details such as:
+  - Customer ID
+  - Gender
+  - Age
+  - Annual Income
+  - Spending Score
+
+---
+
+## 🛠️ Tools & Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+---
+
+## 🔄 Steps Performed
+
+### 1. Data Loading
+- Loaded dataset using Pandas
+
+### 2. Data Cleaning
+- Checked for missing values
+- Removed unnecessary data
+
+### 3. Feature Selection
+- Selected important features:
+  - Age
+  - Annual Income
+  - Spending Score
+
+### 4. Data Preprocessing
+- Applied StandardScaler for feature scaling
+
+### 5. Clustering
+- Used K-Means clustering algorithm
+- Segmented customers into different groups
+
+### 6. Data Visualization
+- Created 2D scatter plots
+- Created 3D visualization of customer segments
+
+---
+
+## 📊 Key Insights
+- High income & high spending customers are premium customers
+- Low spending customers need marketing strategies
+- Customer segmentation helps businesses target the right audience
+
+---
+
+## 📈 Results
+- Successfully segmented customers into different clusters
+- Identified target customer groups
+
+---
+
+## 📌 Conclusion
+This project helps businesses understand customer behavior and improve marketing strategies using data-driven insights.
+
+---
+
+## 🚀 Future Improvements
+- Add more features for better accuracy
+- Build a recommendation system
+- Deploy using Streamlit
+
+---
+
+## 🔗 GitHub Repository
+(Add your GitHub link here)
