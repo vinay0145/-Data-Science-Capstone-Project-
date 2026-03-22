@@ -1,0 +1,110 @@
+# 🚗 Car Details Data Science Capstone Project
+
+## 📌 Objective
+The objective of this project is to perform Exploratory Data Analysis (EDA) on the Car Details dataset and build a Machine Learning model to predict car prices based on various features.
+
+---
+
+## 📂 Dataset
+- Dataset: Car Details Dataset
+- Contains information such as:
+  - Car Name
+  - Year
+  - Selling Price
+  - Present Price
+  - Fuel Type
+  - Seller Type
+  - Transmission
+  - Owner
+
+---
+
+## 🛠️ Tools & Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Streamlit
+- GitHub
+
+---
+
+## 🔄 Steps Performed
+
+### 1. Data Exploration
+- Analyzed dataset structure using Excel & Python
+- Generated summary statistics
+
+### 2. Data Cleaning & Preprocessing
+- Handled missing values
+- Performed encoding (One-Hot Encoding)
+- Applied feature scaling where required
+
+### 3. Exploratory Data Analysis (EDA)
+- Visualized relationships between variables
+- Created graphs using Matplotlib & Seaborn
+- Derived meaningful insights
+
+### 4. Feature Engineering
+- Selected important features for modeling
+- Prepared dataset for training
+
+### 5. Machine Learning Modeling
+- Applied multiple models:
+  - Linear Regression
+  - Decision Tree
+  - Random Forest
+- Compared models using evaluation metrics
+
+### 6. Model Evaluation
+- Used metrics like:
+  - R² Score
+  - Mean Absolute Error (MAE)
+  - Mean Squared Error (MSE)
+- Selected best performing model
+
+### 7. Model Saving & Loading
+- Saved trained model
+- Loaded model for prediction
+
+### 8. Testing
+- Created a sample dataset (20 records)
+- Tested model performance on new data
+
+### 9. Deployment
+- Built a web app using Streamlit
+- Deployed model for public access
+
+---
+
+## 📊 Key Insights
+- Newer cars have higher selling prices
+- Fuel type affects car pricing
+- Owner count impacts resale value
+- Automatic cars tend to have higher prices
+
+---
+
+## 🚀 Streamlit App
+(Add your Streamlit link here)
+
+---
+
+## 🔗 GitHub Repository
+(Add your GitHub link here)
+
+---
+
+## 📌 Conclusion
+This project demonstrates how data analysis and machine learning can be used to predict car prices and derive business insights.
+
+---
+
+## 🔮 Future Improvements
+- Use advanced ML models
+- Improve feature engineering
+- Deploy using cloud platforms
+
+---
